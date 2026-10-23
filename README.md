@@ -1,0 +1,1 @@
+App spammer because why not. You can change the number in the for loop to be whatever you want. I am not responsible if you break your pc doing this xD it's set to 20 for a reason. You have to download all of the files or it wont work.
